@@ -2,7 +2,7 @@
 
 I'm a Software/Algorithm Engineer, and an independent Researcher.
 
-My interests including
+My interests including:
 
 * DSP
 * MIR
