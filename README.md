@@ -15,7 +15,7 @@ I'm also an active user of Deep Learning framework [PyTorch].
 Some projects I developed and maintained:
 
 - [torch_specinv](https://spectrogram-inversion.readthedocs.io/): a collections of spectrogram inversion algorithms.
-- [torchnmf](https://spectrogram-inversion.readthedocs.io/): a package that can help building complex NMF models.
+- [torchnmf](https://pytorch-nmf.readthedocs.io/): a package that can help building complex NMF models.
 - [constant-memory-waveglow](https://zenodo.org/record/4353123): training waveglow with constant memory cost.
 
 See [my website](https://yoyololicon.github.io/) for more details.
