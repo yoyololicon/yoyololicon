@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a Software/Algorithm Engineer, and an independent Researcher.
+I'm a Software/Algorithm Engineer and Researcher.
 
 My interests including:
 
