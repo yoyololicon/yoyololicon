@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a Software/Algorithm Engineer and Researcher.
+I'm a software/algorithm engineer, independent researcher, and a first-year PhD student in the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) program at C4DM, Queen Mary University of London.
 
 My interests including:
 
@@ -9,9 +9,9 @@ My interests including:
 * Deep Learning/Machine Learning
 * Binaural Audio
 * Speech Signal Processing
-* Other audio related stuff
+* Other audio-related stuff
 
-I'm also an active user of Deep Learning framework [PyTorch].
+I'm also an active user of the Deep Learning framework [PyTorch].
 Some projects I developed and maintained:
 
 - [torch_specinv](https://spectrogram-inversion.readthedocs.io/): a collections of spectrogram inversion algorithms.
