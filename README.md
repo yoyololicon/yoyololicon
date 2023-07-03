@@ -17,6 +17,8 @@ Some projects I developed and maintained:
 - [torch_specinv](https://spectrogram-inversion.readthedocs.io/): a collections of spectrogram inversion algorithms.
 - [torchnmf](https://pytorch-nmf.readthedocs.io/): a package that can help building complex NMF models.
 - [constant-memory-waveglow](https://zenodo.org/record/4353123): training waveglow with constant memory cost.
+- [kazane](https://pypi.org/project/kazane/): simple sinc interpolation for 1D signal in PyTorch.
+- [torch-fftconv](https://pypi.org/project/torch-fftconv/): FFT-based PyTorch convolution operators.
 
 See [my website](https://yoyololicon.github.io/) for more details.
 
