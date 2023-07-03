@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a software/algorithm engineer, independent researcher, and a first-year PhD student in the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) program at C4DM, Queen Mary University of London.
+I'm a software/algorithm engineer, independent researcher, and a first-year PhD student in the UKRI Centre for Doctoral Training in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program at C4DM, Queen Mary University of London.
 
 My interests including:
 
@@ -20,9 +20,9 @@ Some projects I developed and maintained:
 
 See [my website](https://yoyololicon.github.io/) for more details.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyololicon&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyololicon&show_icons=true&theme=synthwave&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyololicon&layout=compact&theme=react&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyololicon&layout=pie&theme=synthwave&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [PyTorch]: https://pytorch.org/
