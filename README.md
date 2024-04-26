@@ -1,6 +1,7 @@
 # Hello there 👋
 
-I'm a software/algorithm engineer, independent researcher, and a first-year PhD student in the UKRI Centre for Doctoral Training in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program at C4DM, Queen Mary University of London.
+I'm a software/algorithm engineer and researcher. 
+I'm in my second year of PhD study in the UKRI Centre for Doctoral Training in Artificial Intelligence and Music ([AIM](https://www.aim.qmul.ac.uk/)) program at C4DM, Queen Mary University of London.
 
 My interests including:
 
@@ -9,7 +10,17 @@ My interests including:
 * Deep Learning/Machine Learning
 * Binaural Audio
 * Speech Signal Processing
-* Other audio-related stuff
+* Anything audio-related
+
+## Published research code
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiffAPF&repo=LA-2A&show_owner=true&theme=synthwave)](https://github.com/DiffAPF/LA-2A)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=hrtf-ilp&theme=synthwave)](https://github.com/yoyololicon/hrtf-ilp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=duet-svs-diffusion&theme=synthwave)](https://github.com/yoyololicon/duet-svs-diffusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=golf&theme=synthwave)](https://github.com/yoyololicon/golf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=diffwave-sr&theme=synthwave)](https://github.com/yoyololicon/diffwave-sr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=multi-layered-cepstrum&theme=synthwave)](https://github.com/yoyololicon/multi-layered-cepstrum)
+
 
 I'm also an active user of the Deep Learning framework [PyTorch].
 Some projects I developed and maintained:
@@ -28,17 +39,3 @@ See [my website](https://yoyololicon.github.io/) for more details.
 
 
 [PyTorch]: https://pytorch.org/
-<!--
-**yoyololicon/yoyololicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
