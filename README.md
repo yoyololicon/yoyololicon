@@ -21,15 +21,41 @@ My interests including:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=diffwave-sr&theme=synthwave)](https://github.com/yoyololicon/diffwave-sr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=multi-layered-cepstrum&theme=synthwave)](https://github.com/yoyololicon/multi-layered-cepstrum)
 
+## Scientific packages
 
-I'm also an active user of the Deep Learning framework [PyTorch].
-Some projects I developed and maintained:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=torchlpc&theme=synthwave)](https://github.com/yoyololicon/torchlpc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=torchcomp&theme=synthwave)](https://github.com/yoyololicon/torchcomp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=kamui&theme=synthwave)](https://github.com/yoyololicon/kamui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=pytorch-NMF&theme=synthwave)](https://github.com/yoyololicon/pytorch-NMF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=kazane&theme=synthwave)](https://github.com/yoyololicon/kazane)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=spectrogram-inversion&theme=synthwave)](https://github.com/yoyololicon/spectrogram-inversion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=fft-conv-pytorch&theme=synthwave)](https://github.com/yoyololicon/fft-conv-pytorch)
 
-- [torch_specinv](https://spectrogram-inversion.readthedocs.io/): a collections of spectrogram inversion algorithms.
-- [torchnmf](https://pytorch-nmf.readthedocs.io/): a package that can help building complex NMF models.
-- [constant-memory-waveglow](https://zenodo.org/record/4353123): training waveglow with constant memory cost.
-- [kazane](https://pypi.org/project/kazane/): simple sinc interpolation for 1D signal in PyTorch.
-- [torch-fftconv](https://pypi.org/project/torch-fftconv/): FFT-based PyTorch convolution operators.
+## Paper re-implementations
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=music-spectrogram-diffusion-pytorch&theme=synthwave)](https://github.com/yoyololicon/music-spectrogram-diffusion-pytorch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=pytorch_FFTNet&theme=synthwave)](https://github.com/yoyololicon/pytorch_FFTNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=constant-memory-waveglow&theme=synthwave)](https://github.com/yoyololicon/constant-memory-waveglow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=variational-diffwave&theme=synthwave)](https://github.com/yoyololicon/variational-diffwave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=wavenet-like-vocoder&theme=synthwave)](https://github.com/yoyololicon/wavenet-like-vocoder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=pytorch-wise-ale&theme=synthwave)](https://github.com/yoyololicon/pytorch-wise-ale)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=hrtf-notebooks&theme=synthwave)](https://github.com/yoyololicon/hrtf-notebooks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=bayesian-pitch-tracking-python&theme=synthwave)](https://github.com/yoyololicon/bayesian-pitch-tracking-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=translation-invariant&theme=synthwave)](https://github.com/yoyololicon/translation-invariant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=guitar-plucking-estimation&theme=synthwave)](https://github.com/yoyololicon/guitar-plucking-estimation)
+
+## Competitions
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aim-qmul&repo=sdx23-aimless&show_owner=true&theme=synthwave)](https://github.com/aim-qmul/sdx23-aimless)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=music-demixing-challenge-ismir-2021-entry&theme=synthwave)](https://github.com/yoyololicon/music-demixing-challenge-ismir-2021-entry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=danna-sep&theme=synthwave)](https://github.com/yoyololicon/danna-sep)
+
+## Personal modules
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=pytorch-wav-datasets&theme=synthwave)](https://github.com/yoyololicon/pytorch-wav-datasets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=audiotensor&theme=synthwave)](https://github.com/yoyololicon/audiotensor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyololicon&repo=torchlru&theme=synthwave)](https://github.com/yoyololicon/torchlru)
+
 
 See [my website](https://yoyololicon.github.io/) for more details.
 
@@ -37,5 +63,3 @@ See [my website](https://yoyololicon.github.io/) for more details.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyololicon&layout=pie&theme=synthwave&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[PyTorch]: https://pytorch.org/
